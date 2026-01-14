@@ -1,0 +1,23 @@
+# Pythonin välimuistit
+__pycache__/
+*.py[cod]
+
+# Virtuaaliympäristö
+venv/
+.conda/
+env/
+
+# SAM 2 Mallit (nämä ovat liian isoja GitHubiin)
+*.pth
+*.pt
+
+# Käyttöjärjestelmän tiedostot
+.DS_Store
+Thumbs.db
+
+# Videot ja testidat
+*.mp4
+*.avi
+outputs/
+
+Grounded_SAM_2/
